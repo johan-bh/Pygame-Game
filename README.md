@@ -1,4 +1,5 @@
 # Pygame-Game
 
-Initiate the game by executing code in alien_invasion.py
+Initiate the game by executing code in the alien_invasion.py file
 
+![](images/alien_invasion.PNG)
